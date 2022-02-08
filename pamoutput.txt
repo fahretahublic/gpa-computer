@@ -1,0 +1,9 @@
+Student Data 
+---------------------------------------------------------------
+First Name  Last Name       ID       GPA 
+---------------------------------------------------------------
+Harry        Houdini       1212            4.00    
+Henry        Ford          2211            3.50    
+Albert       Einstein      1155            0.00    
+Alan         Turing        9082            4.00    
+Melvil       Dewey         1876            1.50    
