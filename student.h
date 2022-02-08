@@ -1,9 +1,3 @@
-// *******************************************************************************
-// Program name: proj1.cpp
-// Author: Fahreta Hublic
-// This program reads student and class data and computes GPA
-// *******************************************************************************
-
 #pragma once
 #ifndef student_h
 #define student_h
